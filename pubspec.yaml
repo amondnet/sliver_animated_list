@@ -1,0 +1,20 @@
+name: sliver_animated_list
+description: Sliver Animated List
+version: 0.0.1
+author: Minsu Lee <amond@amond.net>
+homepage: https://amond.dev
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
