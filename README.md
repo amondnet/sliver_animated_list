@@ -1,6 +1,6 @@
 # sliver_animated_list
 
-[![pub package](https://img.shields.io/badge/pub-0.0.1-blueviolet.svg)](https://pub.dev/packages/sliver_animated_list)
+[![pub package](https://img.shields.io/badge/pub-0.0.1+1-blueviolet.svg)](https://pub.dev/packages/sliver_animated_list)
 
 
 Sliver Animated List

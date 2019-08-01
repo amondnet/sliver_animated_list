@@ -1,8 +1,8 @@
 name: sliver_animated_list
 description: Sliver Animated List
-version: 0.0.1
+version: 0.0.1+1
 author: Minsu Lee <amond@amond.net>
-homepage: https://amond.dev
+homepage: https://github.com/amondnet/sliver_animated_list
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
