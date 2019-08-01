@@ -1,0 +1,13 @@
+pr:
+  - master
+
+jobs:
+- job: android
+
+    pool:
+      vmimage: 'ubuntu-16.04'
+    container:  cirrusci/flutter:v1.7.8-hotfix.4
+
+    steps:
+      - script: |
+          flutter doctor
