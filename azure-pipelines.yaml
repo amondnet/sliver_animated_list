@@ -1,0 +1,20 @@
+pr:
+  - master
+
+jobs:
+- job: build
+  pool:
+    vmimage: 'ubuntu-16.04'
+  variables:
+    flutter_home: $(Agent.HomeDirectory)/flutter
+    flutter_bin: $(Agent.HomeDirectory)/flutter/bin
+  steps:
+    - script: |
+        cd $(Agent.HomeDirectory)
+        wget https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.7.8+hotfix.4-stable.tar.xz
+        tar xf flutter_linux_v1.7.8+hotfix.4-stable.tar.xz
+        cd $(Build.SourcesDirectory)
+      displayName: Install Flutter
+    - script: |
+        $(FLUTTER_BIN)/flutter doctor
+        $(FLUTTER_BIN)/flutter test test
