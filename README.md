@@ -7,7 +7,15 @@ Animated List to Sliver
 
 ![example](example/gif/example.gif)
 
-## How to use
+## Usage
+
+Add sliver_animated_list to your pubspec:
+
+```
+dependencies:
+  sliver_animated_list: ^1.0.0
+```
+
 ```
       Center(
         // Center is a layout widget. It takes a single child and positions it
@@ -48,3 +56,5 @@ Animated List to Sliver
         ),
       ),
 ```
+
+See the ```example/``` folder for a working example app.
