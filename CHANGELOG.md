@@ -1,5 +1,13 @@
 # Change Log
 
+## [v1.0.0+1](https://github.com/amondnet/sliver_animated_list/tree/v1.0.0+1)
+
+[Full Changelog](https://github.com/amondnet/sliver_animated_list/compare/v1.0.0...v1.0.0+1)
+
+**Merged pull requests:**
+
+- docs: add description [\#3](https://github.com/amondnet/sliver_animated_list/pull/3) ([amondnet](https://github.com/amondnet))
+
 ## [v1.0.0](https://github.com/amondnet/sliver_animated_list/tree/v1.0.0) (2019-08-20)
 [Full Changelog](https://github.com/amondnet/sliver_animated_list/compare/v0.0.1+1...v1.0.0)
 
