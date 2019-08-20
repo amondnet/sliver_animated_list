@@ -5,6 +5,8 @@
 
 Animated List to Sliver
 
+AnimatedList uses a pattern we know is bad: it provides the scroll view. This package combine AnimatedList with a Sliver.
+
 ![example](example/gif/example.gif)
 
 ## Usage
