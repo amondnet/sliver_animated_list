@@ -1,0 +1,16 @@
+name: sliver_animated_list_example
+description: Demonstrates how to use the sliver_animated_list.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sliver_animated_list:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
