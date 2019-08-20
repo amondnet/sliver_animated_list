@@ -1,6 +1,6 @@
 name: sliver_animated_list
-description: Sliver Animated List
-version: 0.0.1+1
+description: AnimatedList + Sliver = SliverAnimatedList.
+version: 1.0.0
 author: Minsu Lee <amond@amond.net>
 homepage: https://github.com/amondnet/sliver_animated_list
 
