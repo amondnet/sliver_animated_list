@@ -1,6 +1,6 @@
 name: sliver_animated_list
 description: AnimatedList + Sliver = SliverAnimatedList. This package combine AnimatedList with a Sliver.
-version: 1.0.0+1
+version: 1.0.0+2
 author: Minsu Lee <amond@amond.net>
 homepage: https://github.com/amondnet/sliver_animated_list
 
